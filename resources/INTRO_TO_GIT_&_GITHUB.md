@@ -122,7 +122,7 @@ Here is the standard workflow you will use when contributing to a Racerbot proje
 
 ```
 # Clone the repo (first time only)
-git clone https://github.com/sfu-racerbot/racerbot_ws.git
+git clone <temp_repo>
 
 # Create a feature branch
 git checkout -b feature/motor-controller

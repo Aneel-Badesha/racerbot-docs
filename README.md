@@ -9,6 +9,7 @@
 - [Kahoots](https://create.kahoot.it/profiles/92ba5d1e-3a52-4b1e-859e-b4fb60bf1cf7)
 - [Lecture & Tutorial Notes](notes)
 - [Contributing](CONTRIBUTING.md)
+- [How to Contribute to Racerbot](https://github.com/sfu-racerbot/racerbot-docs/blob/main/CONTRIBUTING.md)
 
 ## UPenn RoboRacer (can be outdated)
 - [RoboRacer](https://roboracer.ai/)
@@ -20,6 +21,7 @@
 - [Tutorial](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce)
 
 ## Git and Docker
+- [Intro to Git & GitHub](https://docs.google.com/document/d/1I-W3dRKAqz8tCZDjqIyhy7EIEtikgnkj6uzjMqbhThY/edit?usp=sharing)
 - [Git Docs](https://git-scm.com/docs)
 - [Git and GitHub Tutorial](https://www.w3schools.com/git/default.asp?remote=github)
 - [Docker Docs](https://docs.docker.com/reference/)
