@@ -1,5 +1,7 @@
 # Roadmap
 
+Throughout using `ROS 2`, you may find this [workflow](/resources/WORKFLOW.md) document to be very helpful.
+
 ## Module A: Introduction to ROS, RoboRacer & the Simulator
 1. [Lecture 1](https://www.youtube.com/watch?v=v6w_zVHL8WQ)
     - [Lecture 1 Notes](notes/LECTURE-1.md) (optional)

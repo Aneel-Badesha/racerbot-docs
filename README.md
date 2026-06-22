@@ -3,6 +3,7 @@
 ## SFU Racerbot
 - [Roadmap](ROADMAP.md)
 - [Racerbot](https://github.com/sfu-racerbot)
+- [Workflow](resources/WORKFLOW.md)
 - [Official Workspace](https://github.com/sfu-racerbot/racerbot_ws)
 - [Labs](labs)
 - [Resources](resources)
